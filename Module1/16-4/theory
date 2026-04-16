@@ -1,0 +1,15 @@
+JDK -> java development kit -> compiler
+JRE -> java runtime environment -> system library
+JVM -> java virtual machine -> 
+
+public -> access modifier
+static -> fix
+void   -> null value return
+main   -> method name
+
+c=a+b
+a=a+b
+
+a=b
+a==b
+
