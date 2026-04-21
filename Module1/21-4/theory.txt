@@ -1,0 +1,38 @@
+Conditional Statement:
+1)if
+2)else
+3)else if
+4)switch case
+5)nested if
+
+Looping Statement:
+1)Entry Control Loop:
+-> for
+-> while
+
+2)Exit Control Loop
+-> do while
+
+1) 
+for(initialization;condition;incre/decre)
+{
+}
+
+2)
+initialization;
+
+while(condition)
+{
+	print
+	increment
+}
+
+3)
+initialization;
+
+do
+{
+ 	print
+	increment
+}
+while(condition);
