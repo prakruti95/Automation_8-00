@@ -1,0 +1,7 @@
+Method
+Constructor:Method having a same as a classname
+
+Types of Constructor:
+1)default
+2)parameterized
+3)copy
