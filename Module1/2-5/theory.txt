@@ -1,0 +1,24 @@
+Inheritance:
+
+-> Single
+-> Multilevel
+-> Multiple
+-> Hierarchical
+-> Hybrid
+
+Parent - Child
+Super - Sub
+Base - Derived
+
+interface : collection of abstract methods
+abstract method : a method which does not have body part
+{}
+
+extends
+implements
+
+
+
+
+
+
