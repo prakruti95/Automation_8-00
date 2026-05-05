@@ -1,0 +1,23 @@
+Polymorphism: Many ways to perform anything
+
+Types of Poly:
+1)Method Overloading : When two or more methods having a same name but
+number of parameters are diffrent
+
+
+2)Method Overriding : When two or more methods having a same name and
+number of parameters are also same
+
+Array: Collection of Items that is called an array
+
+Types of Array:
+1)Single Dimensional
+2)Multi Dimensional
+
+[size]
+
+-> array's index will start with 0
+-> arraycopy
+-> Package Management
+
+
