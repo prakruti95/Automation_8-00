@@ -1,0 +1,20 @@
+Selenium IDE
+Selenium WebDriver
+
+Locators:Location
+->id
+->name
+a->linktext
+->xpath
+
+
+Browser:
+Chrome
+Microsoft Edge
+
+
+Task:
+
+Firefox
+Opera
+https://practicetestautomation.com/practice-test-login/
