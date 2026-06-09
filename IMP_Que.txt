@@ -1,0 +1,44 @@
+1.
+Manual:
+Module -1 
+
+Automation:
+Definition:
+Object
+Class 
+Abstraction
+Encapsulation
+Inheritance
+Polymorphism
+
+What is Constructor?
+Types of Constructor?
+Types of Inheritance?-Diagrams
+Types of Polymorphism
+Diffrence between method overloading and overriding
+
+------------------------------------------------------------------------------
+2.
+
+Manual:
+Module 2-Upto Non Functional Testing
+
+Automation:
+StringBuilder
+StringBuffer
+Thread
+What is interface
+
+Keyword:
+This
+Static
+Super
+Final
+
+Serialization and Deserializat
+
+ion
+File I/O
+Collection Framework
+
+
