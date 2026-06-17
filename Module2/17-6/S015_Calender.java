@@ -1,6 +1,7 @@
 package com.a176;
 
 import java.util.List;
+import java.util.Scanner;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
@@ -14,10 +15,13 @@ public class S015_Calender {
 		
 		WebDriver driver = MyConnection.connect("https://www.globalsqa.com/demo-site/datepicker/");
 		
-		
-		String day = "15";
-		String month = "June";
-		String year ="2025";
+		Scanner sc = new Scanner(System.in);
+		System.out.println("Enter Your Date");
+		String day = sc.next();
+		System.out.println("Enter Your Month");
+		String month = sc.next();
+		System.out.println("Enter Your Year");
+		String year =sc.next();
 		
 		WebElement frame  =driver.findElement(By.xpath("//*[@id=\"post-2661\"]/div[2]/div/div/div[1]/p/iframe"));
 		driver.switchTo().frame(frame);
