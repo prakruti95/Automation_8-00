@@ -1,0 +1,18 @@
+Before Class
+
+Before Test
+test
+Userinput value
+Enter value for A
+Enter value for B
+Expected
+Actual
+assertequals(expected,actual)
+After Test
+
+Ignore
+Before Test
+test
+After Test
+
+After Class
