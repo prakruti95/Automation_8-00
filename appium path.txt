@@ -1,0 +1,16 @@
+JDK:
+JAVA_HOME :C:\Program Files\Java\jdk-21
+path : C:\Program Files\Java\jdk-21\bin
+
+Android
+ANDROID_HOME : C:\Users\Admin\AppData\Local\Android\Sdk
+ANDROID_SDK_ROOT:
+ -> C:\Users\Admin\AppData\Local\Android\Sdk
+ -> C:\Users\Admin\AppData\Local\Android\Sdk\emulator
+ -> C:\Users\Admin\AppData\Local\Android\Sdk\platform-tools
+
+FLUTTER_HOME: C:\flutter_windows_3.41.9-stable\flutter
+
+Path : 
+
+
