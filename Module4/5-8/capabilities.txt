@@ -1,0 +1,6 @@
+{
+  "appium:app": "D:\\myapk\\General-Store.apk",
+  "appium:deviceName": "samsung SM-A105F",
+  "platformName": "android",
+  "appium:automationName": "UIAutomator2"
+}
