@@ -1,0 +1,9 @@
+Install APK INFO from playstore
+Start Your Appium Server
+Start Your Appium inspector
+Install APK in your phone using appium inspector 
+find out element id,xpath or etc.?
+notedown that
+Now Switch in Eclipse set the path for APK,appactivity,app package and androiddriver
+for apppackage and appactivity find it out from MYAPK Application
+now add the code in eclipse and run this
