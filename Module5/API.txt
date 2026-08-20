@@ -1,0 +1,10 @@
+Methods:
+GET -> data get
+POST -> data post
+PUT -> data update
+DELETE -> data delete
+
+Link:
+
+Response:JSON [Javascript object notation]
+https://restapilive.onrender.com/
